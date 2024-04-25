@@ -1,0 +1,7 @@
+generative-ai-hub-sdk
+Pypdf2
+python-docx
+extract-msg
+prompt-toolkit
+pygments
+python-pptx
